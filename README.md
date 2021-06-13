@@ -11,7 +11,7 @@ Notebook provides EDA with exploration of DICOM image format.
 Notebook provides EDA, EfficientNetB**x** model (**x** by your choice),train/validation/evaluation using TFRecords, model tuning, kFold validation,  data augmentation, and some post-processing.  
 
 
-- | [Kaggle](https://www.kaggle.com/muhakabartay/keras-siim-isic-melanoma-classification-resnet/output?scriptVersionId=65014814) | [GitHub](https://github.com/kabartay/kaggle-siim-isic-melanoma-classification/blob/ae62541ae7f7a02f95d1d16910e8e8b3709d362e/keras-siim-isic-melanoma-classification-resnet.ipynb) | SIIM-ISIC Melanoma Classification **ResNet** (Keras)   
+- | [Kaggle](https://www.kaggle.com/muhakabartay/keras-siim-isic-melanoma-classification-resnet?scriptVersionId=65018173) | [GitHub](https://github.com/kabartay/kaggle-siim-isic-melanoma-classification/blob/ae62541ae7f7a02f95d1d16910e8e8b3709d362e/keras-siim-isic-melanoma-classification-resnet.ipynb) | SIIM-ISIC Melanoma Classification **ResNet** (Keras)   
 Notebook provides EDA, ResNet50 model,train/validation/evaluation using original images, and data augmentation.  
 
 
